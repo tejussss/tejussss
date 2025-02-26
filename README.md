@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm currently working on Merch services mainly collections and carousel.<br>I'm also collaborating with cross-function teams.
+I am an SDE Intern at Swiggy, working with the Merch team on services like Collections, Carousel, RnR (Ratings & Reviews), and other cross-functional teams. My role involves developing and optimizing backend services, integrating with multiple internal systems, and ensuring scalable, high-performance solutions for Swiggy’s merchandising platform.
+
+I collaborate closely with product managers, engineers, and data teams to enhance user engagement through dynamic content and personalized recommendations. My work includes:
+
+Backend Development: Writing efficient, scalable code for merchandising services.
+Cross-Functional Collaboration: Working with various teams to integrate new features.
+Performance Optimization: Ensuring smooth and fast service performance at scale.
+Passionate about distributed systems, microservices, and problem-solving, I’m excited to contribute to Swiggy’s mission of delivering a seamless customer experience!
 
 
 ## 🌐 Socials:

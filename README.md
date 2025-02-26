@@ -4,8 +4,11 @@ I am an SDE Intern at Swiggy, working with the Merch team on services like Colle
 I collaborate closely with product managers, engineers, and data teams to enhance user engagement through dynamic content and personalized recommendations. My work includes:
 
 Backend Development: Writing efficient, scalable code for merchandising services.
+
 Cross-Functional Collaboration: Working with various teams to integrate new features.
+
 Performance Optimization: Ensuring smooth and fast service performance at scale.
+
 Passionate about distributed systems, microservices, and problem-solving, I’m excited to contribute to Swiggy’s mission of delivering a seamless customer experience!
 
 
